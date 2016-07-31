@@ -1,0 +1,14 @@
+{
+  "name": "tcplogger",
+  "version": "0.0.0",
+  "description": "log tcp incoming traffic",
+  "main": "tcplogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Abarbanell",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
